@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.db075c28.chunk.css",
+    "main.js": "./static/js/main.54dc6b3b.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.9d265bff.js",
+    "static/js/2.bd4fa1c1.chunk.js": "./static/js/2.bd4fa1c1.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.bd4fa1c1.chunk.js.LICENSE.txt": "./static/js/2.bd4fa1c1.chunk.js.LICENSE.txt",
+    "static/media/meerkat.ffbc9f78.png": "./static/media/meerkat.ffbc9f78.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d265bff.js",
+    "static/js/2.bd4fa1c1.chunk.js",
+    "static/css/main.db075c28.chunk.css",
+    "static/js/main.54dc6b3b.chunk.js"
+  ]
+}
